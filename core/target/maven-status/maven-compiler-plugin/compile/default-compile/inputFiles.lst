@@ -1,0 +1,6 @@
+/home/andre/Documentos/spring-microservices/core/src/main/java/academy/devdojo/youtube/core/model/ApplicationUser.java
+/home/andre/Documentos/spring-microservices/core/src/main/java/academy/devdojo/youtube/core/model/AbstractEntity.java
+/home/andre/Documentos/spring-microservices/core/src/main/java/academy/devdojo/youtube/core/repository/ApplicationUserRepository.java
+/home/andre/Documentos/spring-microservices/core/src/main/java/academy/devdojo/youtube/core/model/Course.java
+/home/andre/Documentos/spring-microservices/core/src/main/java/academy/devdojo/youtube/core/property/JWTConfiguration.java
+/home/andre/Documentos/spring-microservices/core/src/main/java/academy/devdojo/youtube/core/repository/CourseRepository.java

@@ -1,0 +1,6 @@
+/home/andre/Documentos/spring-microservices/token/src/main/java/academy/devdojo/youtube/security/util/SecurityContextUtil.java
+/home/andre/Documentos/spring-microservices/token/src/main/java/academy/devdojo/youtube/security/filter/JwtTokenAuthorizationFilter.java
+/home/andre/Documentos/spring-microservices/token/src/main/java/academy/devdojo/youtube/security/token/converter/TokenConverter.java
+/home/andre/Documentos/spring-microservices/token/src/main/java/academy/devdojo/youtube/security/token/creator/TokenCreator.java
+/home/andre/Documentos/spring-microservices/token/src/main/java/academy/devdojo/youtube/security/filter/JwtUsernameAndPasswordAuthenticationFilter.java
+/home/andre/Documentos/spring-microservices/token/src/main/java/academy/devdojo/youtube/security/config/SecurityTokenConfig.java
