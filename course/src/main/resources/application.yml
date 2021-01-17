@@ -26,4 +26,6 @@ spring:
     password: devdojo
 
 
-
+jwt:
+  config:
+    type: signed

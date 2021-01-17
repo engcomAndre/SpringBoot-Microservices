@@ -28,3 +28,6 @@ spring:
 
 
 
+jwt:
+  config:
+    type: signed
